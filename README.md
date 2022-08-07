@@ -1,10 +1,11 @@
 ## PRUEBA FULLSTACK PHP
 
 ## Requisitos
+```
 PHP version 8.0 o superior.
 MySQL para la Base de Datos
 Postman para realizar las pruebas
-
+```
 ## 1.- Maual de instalación
 1.1- configución del archivo **.env**
 ```
