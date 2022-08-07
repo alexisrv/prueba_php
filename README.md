@@ -40,7 +40,7 @@ Ejecutar postman realizar las siguientes configuraciones y ejecutar correctament
         KEY: email VALUE: correo_del_usuario
         KEY: password VALUE: contraseña_del_usuario (Minimo 8 caracteres)
 ```   
-    Pressionar SEND
+    Presionar SEND
 
 ----------------------------------------------------------------------------------------------
     
@@ -55,7 +55,7 @@ Ejecutar postman realizar las siguientes configuraciones y ejecutar correctament
         KEY: email VALUE: correo_del_usuario
         KEY: password VALUE: contraseña_del_usuario
  ```   
-    Pressionar SEND
+    Presionar SEND
 
 ----------------------------------------------------------------------------------------------
     
@@ -73,7 +73,7 @@ Ejecutar postman realizar las siguientes configuraciones y ejecutar correctament
         KEY: email VALUE: correo_del_usuario
         KEY: password VALUE: contraseña_del_usuario
 ```   
-    Pressionar SEND
+    Presionar SEND
 
 ----------------------------------------------------------------------------------------------
 
@@ -91,7 +91,7 @@ Ejecutar postman realizar las siguientes configuraciones y ejecutar correctament
     -Body
         KEY: description VALUE: descripción de la región
 ```    
-    Pressionar SEND
+    Presionar SEND
 
 ----------------------------------------------------------------------------------------------
 
@@ -106,7 +106,7 @@ Ejecutar postman realizar las siguientes configuraciones y ejecutar correctament
         KEY: Accept VALUE: application/json
         KEY: Content-Type VALUE: application/json
 ```   
-    Pressionar SEND
+    Presionar SEND
 
 ----------------------------------------------------------------------------------------------
 
@@ -125,7 +125,7 @@ Ejecutar postman realizar las siguientes configuraciones y ejecutar correctament
         KEY: region VALUE: id de la region a la que pertenece la commune
         KEY: description VALUE: descripción de la commune
 ```    
-    Pressionar SEND
+    Presionar SEND
 
 ----------------------------------------------------------------------------------------------
    
@@ -140,7 +140,7 @@ Ejecutar postman realizar las siguientes configuraciones y ejecutar correctament
         KEY: Accept VALUE: application/json
         KEY: Content-Type VALUE: application/json
 ```    
-    Pressionar SEND
+    Presionar SEND
 
 ----------------------------------------------------------------------------------------------
 
@@ -164,7 +164,7 @@ Ejecutar postman realizar las siguientes configuraciones y ejecutar correctament
         KEY: last_name VALUE: apellido(s) del customer
         KEY: address VALUE: dirección del customer (este campo puede dejarse vacío)
 ```    
-    Pressionar SEND
+    Presionar SEND
 
 ----------------------------------------------------------------------------------------------
   
@@ -178,7 +178,7 @@ Ejecutar postman realizar las siguientes configuraciones y ejecutar correctament
     -Headers:
         KEY: Accept VALUE: application/json
 ```    
-    Pressionar SEND
+    Presionar SEND
 
 ----------------------------------------------------------------------------------------------
   
@@ -192,7 +192,7 @@ Ejecutar postman realizar las siguientes configuraciones y ejecutar correctament
     -Headers:
         KEY: Accept VALUE: application/json
 ```    
-    Pressionar SEND
+    Presionar SEND
 
 ----------------------------------------------------------------------------------------------
    
@@ -206,7 +206,7 @@ Ejecutar postman realizar las siguientes configuraciones y ejecutar correctament
     -Headers:
         KEY: Accept VALUE: application/json
 ```    
-    Pressionar SEND
+    Presionar SEND
 
 ----------------------------------------------------------------------------------------------
 
