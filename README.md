@@ -196,7 +196,7 @@ Ejecutar postman realizar las siguientes configuraciones y ejecutar correctament
 
 ----------------------------------------------------------------------------------------------
    
-   ## 2.4.4 Eliminar commune:
+   ## 2.4.4 Eliminar customer:
 ```
     -Metodo: DELETE
     -URL: http://127.0.0.1:8000/api/customer/123456789 <- reemplazar por el dni del customer que desea eliminar
